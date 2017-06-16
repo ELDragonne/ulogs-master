@@ -1,0 +1,34 @@
+    
+     _   _  _  _    _                    _           _                        
+    | | | || || |  (_)                  | |         | |                       
+    | | | || || |_  _  _ __ ___    __ _ | |_   ___  | |      ___    __ _  ___ 
+    | | | || || __|| || '_ ` _ \  / _` || __| / _ \ | |     / _ \  / _` |/ __|
+    | |_| || || |_ | || | | | | || (_| || |_ |  __/ | |____| (_) || (_| |\__ \
+     \___/ |_| \__||_||_| |_| |_| \__,_| \__| \___| \_____/ \___/  \__, ||___/
+                                                                    __/ |     
+                                                                   |___/      
+    
+    
+***********************************************************************************************
+
+
+Installation :
+
+Place the folder 'ultimatelogs' under '*/GarrysMod/addons/' .
+
+
+***********************************************************************************************
+
+
+How to use :
+
+Visit https://facepunch.com/showthread.php?t=1498803
+
+
+***********************************************************************************************
+
+
+Configuration file :
+
+You can edit the configuration file under '*/GarrysMod/addons/ultimatelogs/lua/ultimatelogs/configuration.lua' ,
+                                          '*/GarrysMod/addons/ultimatelogs/lua/ultimatelogs/configurationMySQL.lua' .
